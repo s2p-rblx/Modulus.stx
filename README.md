@@ -1,4 +1,3 @@
-Modulus
 Modulus is a powerful, modular Roblox admin system designed for efficiency, flexibility, and security. It provides a clean framework for creating commands, managing permissions, and handling in-game tools, all while maintaining a professional interface and high performance.
 
 -- Features --
